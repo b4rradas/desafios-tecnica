@@ -1,2 +1,2 @@
 # desafios-tecnica
-resolução dos desafios 
+resolução dos desafios da parte Tecnica
